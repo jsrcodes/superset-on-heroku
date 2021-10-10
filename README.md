@@ -1,4 +1,4 @@
-# Superset [superset](https://superset.apache.org/) on [Heroku](http://heroku.com)
+# Instant deploy [superset](https://superset.apache.org/) on [Heroku](http://heroku.com)
 
 ## Deploying on Heroku
 
