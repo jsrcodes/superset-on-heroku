@@ -1,3 +1,3 @@
-release: superset db upgrade && superset init
+release: bash init.sh
 
-web: gunicorn "superset.app:create_app()" 
+web: gunicorn "superset.app:create_app()"

@@ -14,6 +14,14 @@
     "SECRET_KEY": {
       "description": "A secret key for verifying the integrity of signed cookies.",
       "generator": "secret"
+    },
+    "SUPERSET_ADMIN_EMAIL": {
+      "description": "Email Id of the admin for this superset instance",
+      "value": "admin@superset.com"
+    },
+    "SUPERSET_ADMIN_PASSWORD": {
+      "description": "Admin password for this superset instance. Please change the default password",
+      "value": "admin"
     }
   }
 }
